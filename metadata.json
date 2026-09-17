@@ -1,0 +1,7 @@
+{
+  "name": "Employee Management System",
+  "description": "A full-stack CRUD Employee Management System with React, Django REST Framework, SQLite, live REST API dashboard, testing suite, and documentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
